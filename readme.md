@@ -15,10 +15,6 @@ Most large prime searches focus on Mersenne primes because they are
 easier to test. This project targets the wider, less explored space 
 of non-Mersenne primes.
 
-## How to run
-pip install -r requirements.txt
-python primehunter.py
-
 ## Example output
 Found a prime number after 69 attempts
 Digits: 500
